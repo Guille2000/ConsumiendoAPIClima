@@ -1,0 +1,2 @@
+Este es un proyecto en el cual utilizo asyinc, await y fetch para consumir una API del clima. Contiene validaciones y, una vez ingresado correctamente los datos, te muestra la ciudad,
+y la temperatura actual, maxima y minima de la misma.
